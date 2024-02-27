@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """A new view for User objects that handles all default RESTFul
-API actions"""
+API actions """
 from api.v1.views import app_views
 from models.user import User
 from models import storage

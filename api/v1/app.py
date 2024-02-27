@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""a script to return the status of the API"""
+"""a script to return the status of the API!"""
 from flask import Flask, jsonify, make_response
 from models import storage
 from api.v1.views import app_views

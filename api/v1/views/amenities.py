@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """A new view for Amenity objects that handles all default RESTFul
-API actions"""
+API actions """
 from api.v1.views import app_views
 from models.amenity import Amenity
 from models import storage

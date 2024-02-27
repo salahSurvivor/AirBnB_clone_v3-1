@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """a new view for State objects that handles all default RESTFul
-API actions"""
+API actions """
 from api.v1.views import app_views
 from models.state import State
 from models import storage

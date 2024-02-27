@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-Create a view for Place objects - handles all default RESTful API actions
+Create a view for Place objects -- handles all default RESTful API actions
 '''
 
 # Import necessary modules
